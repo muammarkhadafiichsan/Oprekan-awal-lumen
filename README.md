@@ -1,0 +1,2 @@
+# Oprekan awal lumen
+ -
